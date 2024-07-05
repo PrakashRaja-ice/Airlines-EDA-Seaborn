@@ -1,4 +1,4 @@
-# Airlines-python-EDA-Seaborn-Folium-HeatMap
+# Airlines-python-EDA-Seaborn
 
 # Overview
 This project explores an airline dataset containing information about passengers, flights, airports, and flight statuses. The goal is to gain insights and answer relevant questions through data visualization and statistical analysis.
@@ -60,9 +60,3 @@ Merge relevant tables (e.g., passenger data, flight data).
 Use scatter plots, bar charts, and heatmaps.
 Explore correlations between features.
 
-## Statistical Insights:
-Calculate summary statistics
-Perform hypothesis tests
-Geospatial Analysis:
-Plot airport locations on a map.
-Visualize flight routes.
