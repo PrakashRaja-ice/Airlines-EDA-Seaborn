@@ -58,5 +58,5 @@ Merge relevant tables (e.g., passenger data, flight data).
 
 ## Exploratory Data Visualization:
 Use scatter plots, bar charts, and heatmaps.
-Explore correlations between features.
+
 
